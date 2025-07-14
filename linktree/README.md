@@ -5,7 +5,6 @@ This project is a simple link tree application that allows users to showcase the
 ## Project Structure
 
 ```
-my-linktree
 ├── src
 │   ├── index.html        # Main HTML document for the link tree
 │   ├── styles
@@ -29,12 +28,9 @@ my-linktree
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/my-linktree.git
+   git clone https://github.com/DuniaGoncalves/linktree.git
    ```
 2. Navigate to the project directory:
-   ```
-   cd my-linktree
-   ```
 3. Open `src/index.html` in a web browser to view the link tree.
 
 ## Usage Guidelines
