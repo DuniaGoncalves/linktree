@@ -46,3 +46,6 @@ my-linktree
 ## License
 
 This project is open-source and available under the MIT License.
+
+## Resource
+[Kedasha Kerr - That Lady Dev](https://www.itsthatlady.dev/blog/build-your-custom-linktree/)
