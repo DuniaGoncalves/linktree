@@ -2,20 +2,6 @@
 Vibe Coded this project with Co-Pilot
 This project is a simple link tree application that allows users to showcase their social links, general links, videos, and blog posts in a visually appealing format. 
 
-## Project Structure
-
-```
-├── src
-│   ├── index.html        # Main HTML document for the link tree
-│   ├── styles
-│   │   └── main.css      # CSS styles for the link tree
-│   ├── scripts
-│   │   └── app.js        # JavaScript for dynamic interactions
-│   └── assets
-│       └── profile.jpg    # User's bio photo
-└── README.md             # Project documentation
-```
-
 ## Features
 
 - **Bio Photo**: Display a personal photo to enhance the link tree's visual appeal.
@@ -30,7 +16,7 @@ This project is a simple link tree application that allows users to showcase the
    ```
    git clone https://github.com/DuniaGoncalves/linktree.git
    ```
-2. Navigate to the project directory:
+2. Navigate to the project directory
 3. Open `src/index.html` in a web browser to view the link tree.
 
 ## Usage Guidelines
